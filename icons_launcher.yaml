@@ -1,0 +1,7 @@
+ icons_launcher:
+   image_path: "assets/images/WhatsApp Image 2025-04-30 at 18.22.28_b5096dc2 1.png"
+   platforms:
+     android:
+       enable: true
+     ios:
+       enable: true
